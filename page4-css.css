@@ -1,0 +1,113 @@
+#LOGO02-01-01{
+	position:absolute;
+	left:5%;
+	top:2.5%;	
+}
+#typo01-01-01{
+	position:absolute;
+	left:8%;
+	top:2.5%;
+}
+
+
+
+#How-it-works-01-BOLD-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:-250px;
+}
+#About-us-1-01-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:-36px;
+}
+#Contact-01-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:170px;
+}
+
+
+
+
+#search-01-01{
+	position:absolute;
+	right:10%;
+	top:3.5%;
+}
+
+
+
+
+#Help-01{
+	position:absolute;
+	left:5%;
+	top:92.5%;	
+}
+
+
+
+
+#Below-button-01-page4{
+	/*width:200px; 
+	height:50px;*/ 
+	z-index:1; 
+	position:absolute;
+	left:50%;
+	top:90%;
+	margin-left:-128px;
+}
+
+
+
+
+#Language-01-01{
+	position:absolute;
+	right:10%;
+	top:92.5%;
+}
+
+
+
+
+#background-01-page4{
+	position:absolute;
+	top:50%;
+	right:0;
+	width:1300px;
+	height:531px;
+	margin-top:-265px;
+}
+
+
+
+
+#Blue-man-big-01{
+	position:absolute;
+	top:35%;
+	margin-top:0;
+	margin-left:30px;
+}
+
+
+
+#floor-01-page4{
+	position:absolute;
+	top:30%;
+	left:35%;
+}
+
+
+
+
+
+#icon-right{
+	margin-left:15px;
+	
+}
+.up{
+	margin-top:10px;
+}
