@@ -1,0 +1,141 @@
+#LOGO02-01-01{
+	position:absolute;
+	left:5%;
+	top:2.5%;	
+}
+#typo01-01-01{
+	position:absolute;
+	left:8%;
+	top:2.5%;
+}
+
+
+
+#How-it-works-01-BOLD-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:-250px;
+}
+#About-us-1-01-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:-36px;
+}
+#Contact-01-01{
+	position:absolute;
+	left:50%;
+	top:3.5%;
+	margin-left:170px;
+}
+
+
+#inputtext{
+	height:16px;
+	top:3.5%;
+	right:11.3%;
+	position:absolute;
+	border:2px solid blue;
+	border-radius: 5px;
+	outline: none;
+}
+#search-01-01{
+	position:absolute;
+	right:10%;
+	top:3.5%;
+}
+
+
+
+#Flollow-us-01-01{
+	position:absolute;
+	left:5%;
+	top:92.5%;	
+}
+#ICON-FB-01-01{
+	position:absolute;
+	left:12.5%;
+	top:92%;
+}
+#ICON-TWEET-01-01-01{
+	position:absolute;
+	left:15%;
+	top:92.5%;
+}
+#ICON-YOUTUBE-01-01-01-01{
+	position:absolute;
+	left:17.5%;
+	top:92.5%;
+}
+
+
+
+#below-bar-01{
+	width:200px; 
+	height:50px; 
+	z-index:1; 
+	position:absolute;
+	left:50%;
+	top:90%;
+	margin-left:-100px;
+}
+#Question-Mark-bar-01-01{
+	width:50px;
+	height:50px;
+	z-index:2;
+	position:absolute;
+	left:50%;
+	top:90%;
+	margin-left:12px;	
+}
+
+
+
+#Language-01-01{
+	position:absolute;
+	right:10%;
+	top:92.5%;
+}
+
+
+
+#Left-orange-01-01{
+	position:absolute;
+	top:50%;
+	margin-top:-265px;
+	margin-left:-450px;
+}
+
+
+
+
+#Right-blue-01-01{
+
+	margin-right:-200px;
+}
+
+
+
+
+#Mid-word-01-01{
+	position:absolute;
+	top:20%;
+	left:42%;
+	margin-left:-124px;
+}
+#Mid-Pic-all-01-01{
+	position:absolute; 
+	left:42%;
+	top:35%;
+	margin-left:-232px;
+}
+
+
+
+
+#reference{
+	position:absolute;
+	left:95%;
+	top:85%;
+}
